@@ -62,7 +62,7 @@ python main.py
 
 ## Screenshots
 
-![Pong Game Screenshot](![image](https://github.com/user-attachments/assets/6ede9852-f400-43f4-a986-f5af08731fef))
+![Pong Game Screenshot]([![image](https://github.com/user-attachments/assets/6ede9852-f400-43f4-a986-f5af08731fef)](https://github.com/Saikrishnaz/PongGame/blob/main/Pong%20SS.png))
 
 ## Acknowledgements
 
